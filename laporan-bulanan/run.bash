@@ -1,0 +1,1 @@
+php -S localhost:8000 & sleep 1 && explorer "http://localhost:8000"
